@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "react": "^16.2.0"
+  }
+}
